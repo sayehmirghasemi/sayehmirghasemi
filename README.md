@@ -20,7 +20,7 @@ I’m passionate about crafting intelligent systems and exploring the intersecti
 ### 🔧 Technologies I Work With
 
 - **Programming:** Python · JavaScript · C++ . 
-- **AI/ML Tools:** TensorFlow · PyTorch · Scikit-learn .
+- **AI/ML Tools:** TensorFlow · PyTorch · Scikit-learn . OpenCV, Beautiful Soup, Seaborn, NumPy, Pandas
 - **Web Dev:** React · Next.js · HTML/CSS · Tailwind . Javascript . PHP
 - **Tools:** Git · VSCode · Photoshop . Figma . 
 
